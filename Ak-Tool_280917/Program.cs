@@ -10,6 +10,8 @@ namespace Ak_Tool_280917
     {
         static void Main(string[] args)
         {
+            string a = "peidl";
+
         }
     }
 }
